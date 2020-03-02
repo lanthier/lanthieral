@@ -1,3 +1,5 @@
+My layground for keeping my webcomponent skills sharp.
+
 yarn/npm install -g polymer-cli
 
 git clone https://github.com/Lanthier/lanthierial
