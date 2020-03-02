@@ -1,0 +1,16 @@
+{
+  "name": "lanthierial-card",
+  "version": "1.0.0",
+  "description": "lanthierial-card",
+  "repository": "https://github.com/Lanthier/lanthierial-card.git",
+  "main": "lanthierial-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Lanthier",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "latest",
+    "lit-element": "latest"
+  }
+}
