@@ -1,4 +1,4 @@
-My layground for keeping my webcomponent skills sharp.
+My playground for keeping my webcomponent skills sharp.
 
 yarn/npm install -g polymer-cli
 
